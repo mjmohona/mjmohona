@@ -1,4 +1,4 @@
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -12,9 +12,10 @@
 </div>
 
 
-###
-<picture align="center">
+<div align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjmohona/mjmohona/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjmohona/mjmohona/output/snake-light.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mjmohona/mjmohona/output/snake-dark.svg" />
 </picture>
+</div>

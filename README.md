@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/in/mohona-jahan-025384169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="35" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/mohona-jahan-025384169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="35" alt="linkedin logo"  />
 </div>
 
 

@@ -1,9 +1,3 @@
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mjmohona/count.svg?"  />
-</div>
-
 <h1 align="center">Stats</h3>
 
 <div align="center">
